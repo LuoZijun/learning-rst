@@ -1,0 +1,18 @@
+
+Hi, Part 1
+===============
+
+.. contents::
+
+这是第一部分。
+
+.. code:: javascript
+
+    var d = new Date();
+    console.log(d.getTime());
+
+End.
+
+.. include:: 2.rst
+    :literal:
+
